@@ -1,10 +1,6 @@
 goiaba
-pessego
 kiwi
 banana
-melancia
-maracuja
-abacate
-laranja
 manga
 tomate
+uva
